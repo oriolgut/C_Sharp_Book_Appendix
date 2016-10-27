@@ -18,9 +18,7 @@
         </Grid.ColumnDefinitions>
 
         <Button x:Name="changeText" Content="Change the label if checked" HorizontalAlignment="Center" VerticalAlignment="Center" Click="changeText_Click"/>
-
         <CheckBox x:Name="enableCheckbox" Content="Enable label changing" HorizontalAlignment="Center" VerticalAlignment="Center" IsChecked="true" Grid.Column="1"/>
-
         <TextBlock x:Name="labelToChange" Grid.Row="1" TextWrapping="Wrap" 
                    Text="Press the button to set my text" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.ColumnSpan="2"/>
     </Grid>
