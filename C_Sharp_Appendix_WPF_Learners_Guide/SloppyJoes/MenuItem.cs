@@ -11,7 +11,7 @@ namespace SloppyJoes
         public MenuItem(string meat, string condiment, string bread)
         {
             Meat = meat;
-            Bread = bread;
+            Condiment = condiment;
             Bread = bread;
         }
 
