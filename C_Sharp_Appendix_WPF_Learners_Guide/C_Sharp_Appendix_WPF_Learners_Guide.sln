@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoFishGame", "GoFish!\GoFis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SloppyJoes", "SloppyJoes\SloppyJoes.csproj", "{22E24F29-83D7-4A1A-8864-258251598789}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFandAsync", "WPFandAsync\WPFandAsync.csproj", "{8F86BBFA-7F45-4999-B2B0-CF51898C42ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{22E24F29-83D7-4A1A-8864-258251598789}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22E24F29-83D7-4A1A-8864-258251598789}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22E24F29-83D7-4A1A-8864-258251598789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F86BBFA-7F45-4999-B2B0-CF51898C42ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F86BBFA-7F45-4999-B2B0-CF51898C42ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F86BBFA-7F45-4999-B2B0-CF51898C42ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F86BBFA-7F45-4999-B2B0-CF51898C42ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
